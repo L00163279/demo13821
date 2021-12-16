@@ -1,7 +1,7 @@
 /**
 * Utility class for extracting digits from integers.
 *
-* @author R.Lennon
+* @author Muhammed Shafeeq
 * @version 1.0
 */
 class HelloWorldExample{
